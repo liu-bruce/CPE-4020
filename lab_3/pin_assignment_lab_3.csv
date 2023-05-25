@@ -1,0 +1,19 @@
+To, Location
+
+output_led_slot_0_hex_0_0,PIN_G18
+output_led_slot_1_hex_0_1,PIN_F22
+output_led_slot_2_hex_0_2,PIN_E17
+output_led_slot_3_hex_0_3,PIN_L26
+output_led_slot_4_hex_0_4,PIN_L25
+output_led_slot_5_hex_0_5,PIN_J22
+output_led_slot_6_hex_0_6,PIN_H22
+
+output_LEDR_0,PIN_G19
+output_LEDR_1,PIN_f19
+output_LEDR_2,PIN_E19
+output_LEDR_3,PIN_F21
+
+input_a_sw_3,PIN_AD27
+input_b_sw_2,PIN_AC27
+input_c_sw_1,PIN_AC28
+input_d_sw_0,PIN_AB28
