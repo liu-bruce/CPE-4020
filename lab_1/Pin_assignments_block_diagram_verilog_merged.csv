@@ -1,0 +1,11 @@
+To, Location
+and_input_1_block_diagram_SW16,PIN_Y24
+and_input_2_block_diagram_SW17,PIN_y23
+and_input_1_verilog_SW0,PIN_AB28
+and_input_2_verilog_SW1,PIN_AC28
+input_block_diagram_LED_1_LEDR16,PIN_G16
+input_block_diagram_LED_2_LEDR17,PIN_H15
+input_verilog_LED_1_LEDR0,PIN_G19
+input_verilog_LED_2_LEDR1,PIN_F19
+output_block_diagram_LED_LEDG6,PIN_G22
+output_led_verilog_LEDG0,PIN_E21
